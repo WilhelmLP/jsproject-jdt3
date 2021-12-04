@@ -5,6 +5,10 @@ body {
 html {
     font-size: 62.5%;
 }
+
+img{
+    width: 100%;
+}
 h1 {
     font-family: 'Staatliches', cursive;
     font-size: 6rem;
